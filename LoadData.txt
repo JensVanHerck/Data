@@ -1,1 +1,1 @@
-jsonCallBack([ "bg", "BMW", "Fiat" ]);
+jsonCallBack({"backgrounds":[ "bg_anim_1", "BMW", "Fiat" ,"https://s5.postimg.org/9fh4jqggn/bg_anim_1.jpg" ]});
