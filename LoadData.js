@@ -1,0 +1,3 @@
+jsonCallBack({"backgrounds":[ "bg_anim_1", "5b84dfbe-3421-cf35-502a-eb2206d25ac3", "9ae8e9d4-54fa-8853-0658-65a644a8f010" ,"https://s5.postimg.org/9fh4jqggn/bg_anim_1.jpg",
+"bg_anim_2", "a047de27-c3ce-61d3-9a3c-06c593834181", "51761bce-80a0-9d58-94be-f6ab17b4cb51" ,"https://s5.postimg.org/vddldivh3/bg_anim_2.jpg",
+"bg_anim_3", "968cb9bf-1b80-d31b-53c8-7b1d571ac88a", "bb9bde56-aedc-2735-58db-db49c4143e1e" ,"https://s5.postimg.org/wr588tuqf/bg_anim_3.jpg" ]});
